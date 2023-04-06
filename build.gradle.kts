@@ -3,6 +3,7 @@ import org.jetbrains.compose.desktop.application.dsl.TargetFormat
 plugins {
     kotlin("multiplatform")
     id("org.jetbrains.compose")
+    id("org.openjfx.javafxplugin") version "0.0.10"
 }
 
 group = "io.hamza"
@@ -23,6 +24,7 @@ kotlin {
         val jvmMain by getting {
             dependencies {
                 implementation(compose.desktop.currentOs)
+                implementation ("org.openjfx:javafx-web:16")
             }
         }
         val jvmTest by getting
@@ -38,4 +40,9 @@ compose.desktop {
             packageVersion = "1.0.0"
         }
     }
+}
+
+javafx {
+    version = "16"
+    modules = listOf("javafx.controls", "javafx.swing", "javafx.web", "javafx.graphics")
 }
