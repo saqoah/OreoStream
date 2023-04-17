@@ -6,7 +6,7 @@ plugins {
     id("org.openjfx.javafxplugin") version "0.0.10"
 }
 
-group = "io.hamza"
+group = "io.oreo"
 version = "1.0-SNAPSHOT"
 
 repositories {
@@ -36,7 +36,7 @@ compose.desktop {
         mainClass = "MainKt"
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "IntelliJbot"
+            packageName = "OreoStream"
             packageVersion = "1.0.0"
         }
     }
