@@ -18,13 +18,13 @@ OreoStream est une application de streaming de séries TV et de films qui vous p
 
 ## Captures d'écran
 
-![Capture d'écran 1](https://raw.githubusercontent.com/saqoah/OreoStream/master/src/jvmMain/kotlin/Screenshot_20230417-044646_Apk%20Analyzer.jpg?token=GHSAT0AAAAAACBHSZ7QZPPUMGGVNBWYL6QAZB4W7ZA)
+![Capture d'écran 1](https://github.com/saqoah/OreoStream/raw/master/src/jvmMain/kotlin/Screenshot_20230417-044646_Apk%20Analyzer.jpg)
 
-![Capture d'écran 2](https://raw.githubusercontent.com/saqoah/OreoStream/master/src/jvmMain/kotlin/Screenshot_20230417-044812_OreoStream.jpg?token=GHSAT0AAAAAACBHSZ7QMQ523QXV6MS5QDBCZB4XAGA)
+![Capture d'écran 2](https://github.com/saqoah/OreoStream/raw/master/src/jvmMain/kotlin/Screenshot_20230417-044812_OreoStream.jpg)
 
-![Capture d'écran 3](https://raw.githubusercontent.com/saqoah/OreoStream/master/src/jvmMain/kotlin/Screenshot_20230417-044823_OreoStream.jpg?token=GHSAT0AAAAAACBHSZ7QSLX6IVWZWTH4OQRUZB4XAQQ)
+![Capture d'écran 3](https://github.com/saqoah/OreoStream/raw/master/src/jvmMain/kotlin/Screenshot_20230417-044823_OreoStream.jpg)
 
-![Capture d'écran 4](https://raw.githubusercontent.com/saqoah/OreoStream/master/src/jvmMain/kotlin/Screenshot_20230417-044839_OreoStream.jpg?token=GHSAT0AAAAAACBHSZ7QCEK6AKU4QLM2B3LMZB4XAWA)
+![Capture d'écran 4](https://github.com/saqoah/OreoStream/raw/master/src/jvmMain/kotlin/Screenshot_20230417-044839_OreoStream.jpg)
 
 ## Comment utiliser OreoStream
 
