@@ -44,7 +44,7 @@ fun main() = application(exitProcessOnExit = true) {
         content = {
 
             Box(modifier = Modifier.fillMaxSize().background(Color.White)) {
-                webview("https://french-stream.zone",window)
+                webview("https://",window)
             }
         })
 }
