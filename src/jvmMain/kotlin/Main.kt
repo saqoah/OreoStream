@@ -28,6 +28,7 @@ import java.awt.BorderLayout
 import javax.swing.JPanel
 
 fun main() = application(exitProcessOnExit = true) {
+    //androidTV
     // Required to make sure the JavaFx event loop doesn't finish (can happen when java fx panels in app are shown/hidden)
     val finishListener = object : PlatformImpl.FinishListener {
         override fun idle(implicitExit: Boolean) {}
