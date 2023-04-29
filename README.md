@@ -2,7 +2,7 @@
 
 OreoStream est une application de streaming de séries TV et de films qui vous permet de profiter de vos contenus préférés en ligne. Avec une interface utilisateur conviviale et des fonctionnalités avancées, OreoStream vous offre une expérience de visionnage de haute qualité où que vous soyez.
 
-[TELECHERGER](https://github.com/saqoah/OreoStream/releases/download/avril/oreostream.apk "oreo")
+[TELECHERGER](https://github.com/saqoah/OreoStream/releases/download/avril/ "oreo")
 
 ## Caractéristiques principales
 
