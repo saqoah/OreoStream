@@ -20,13 +20,9 @@ OreoStream est une application de streaming de séries TV et de films qui vous p
 
 ## Captures d'écran
 
-![Capture d'écran 1](https://github.com/saqoah/OreoStream/raw/master/src/jvmMain/kotlin/Screenshot_20230417-044646_Apk%20Analyzer.jpg)
+![Capture d'écran 1]()
 
-![Capture d'écran 2](https://github.com/saqoah/OreoStream/raw/master/src/jvmMain/kotlin/Screenshot_20230417-044812_OreoStream.jpg)
-
-![Capture d'écran 3](https://github.com/saqoah/OreoStream/raw/master/src/jvmMain/kotlin/Screenshot_20230417-044823_OreoStream.jpg)
-
-![Capture d'écran 4](https://github.com/saqoah/OreoStream/raw/master/src/jvmMain/kotlin/Screenshot_20230417-044839_OreoStream.jpg)
+![Capture d'écran 2]()
 
 ## Comment utiliser OreoStream
 
